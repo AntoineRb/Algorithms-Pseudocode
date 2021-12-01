@@ -6,7 +6,9 @@
 ---
 
 n = length(Array)
+
 card = cardValue
+
 tabl = myArrayOfCards
 
 loop: i range: 0, n -1;
@@ -22,16 +24,13 @@ loop: i range: 0, n -1;
         condition end
 
     loop end
-    
+
 loop end
-
-
----
 
 
 ## Insertion Algorithm
 
----
+
 
 n = length(Array)
 
