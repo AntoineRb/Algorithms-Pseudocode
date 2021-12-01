@@ -34,18 +34,18 @@ loop end
 
 ```
 
-    n = length(Array)
+n = length(Array)
 
-    card = cardValue
+card = cardValue
 
-    tabl = myArrayOfCards
+tabl = myArrayOfCards
 
-    specialCards[
-        "As" => 1,
-        "Jack" => 11,
-        "Queen" => 12,
-        "King" => 13
-    ]
+specialCards[
+    "As" => 1,
+    "Jack" => 11,
+    "Queen" => 12,
+    "King" => 13
+]
 
 loop: i range: 0, n -1;
 
