@@ -1,5 +1,6 @@
 ### Algorithms
 
+---
 
 ## Bubble Sort
 
@@ -28,9 +29,14 @@ loop: i range: 0, n -1;
 loop end
 
 
+---
+
+
+---
+
 ## Insertion Algorithm
 
-
+---
 
 n = length(Array)
 
